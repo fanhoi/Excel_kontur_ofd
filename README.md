@@ -11,6 +11,8 @@
    ```
 2. Установите зависимости:
    ```
+   apt-get install libjpeg-dev zlib1g-dev
+   pip install streamlit
    pip install -r requirements.txt
    ```
 
